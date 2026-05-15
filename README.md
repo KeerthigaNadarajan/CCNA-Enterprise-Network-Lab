@@ -54,3 +54,6 @@ WAN Link: 10.0.0.0/30 — Serial WAN between HQ and Branch routers
 ## Skills Demonstrated
 
 VLANs | Trunking | OSPF | DHCP | NAT | ACL | SSH | Cisco IOS CLI | WAN | Switch Security
+## Project Documentation
+
+[Click here to view full project report](Enterprise%20Office%20Network%20CCNA%20Design%20and%20Implementation%20Using%20Cisco%20Packet%20Tracer.pdf)
